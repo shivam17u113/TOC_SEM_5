@@ -1,0 +1,36 @@
+run mysql 
+1.(sudo) mysql -u root -p
+2.press enter
+3.enter password as password
+ithe mysql cha password password aahe 1234 nahi
+
+use sudo if mysql only doesnt work
+
+run mongodb
+1.sudo service mongodb start
+2.mongo
+
+run python file
+python3 ./first.py
+
+
+run yacc file
+to run yacc program use follwog comands:
+
+1. lex codel.l
+2. yacc -d codey.y
+3. gcc lex.yy.c y.tab.c
+4. ./a.out
+
+
+run lex file
+1.  lex codel.l
+2. gcc lex.yy.c
+3.   ./a.out
+
+
+
+
+
+
+
